@@ -2,3 +2,9 @@ openvz-autotemplates
 ====================
 
 Automatically wget and load the important OpenVZ templates (CentOS/Debian/Ubuntu)
+
+<pre>
+wget https://raw.github.com/arjitc/openvz-autotemplates/master/load.sh
+chmod +x load.sh
+./load.sh
+</pre>
