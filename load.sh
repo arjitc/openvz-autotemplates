@@ -14,6 +14,8 @@ wget http://download.openvz.org/template/precreated/ubuntu-12.10-x86.tar.gz
 wget http://download.openvz.org/template/precreated/ubuntu-12.10-x86_64.tar.gz
 wget http://download.openvz.org/template/precreated/ubuntu-13.04-x86.tar.gz
 wget http://download.openvz.org/template/precreated/ubuntu-13.04-x86_64.tar.gz
+wget http://download.openvz.org/template/precreated/debian-7.0-x86.tar.gz
+wget http://download.openvz.org/template/precreated/debian-7.0-x86_64.tar.gz
 clear
 echo Done.
 read -p "press [enter] to continue..."
