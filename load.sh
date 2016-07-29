@@ -6,8 +6,6 @@ wget -N http://download.openvz.org/template/precreated/centos-5-x86.tar.gz
 wget -N http://download.openvz.org/template/precreated/centos-5-x86_64.tar.gz
 wget -N http://download.openvz.org/template/precreated/centos-6-x86.tar.gz
 wget -N http://download.openvz.org/template/precreated/centos-6-x86_64.tar.gz
-wget -N http://download.openvz.org/template/precreated/debian-6.0-x86.tar.gz
-wget -N http://download.openvz.org/template/precreated/debian-6.0-x86_64.tar.gz
 wget -N http://download.openvz.org/template/precreated/ubuntu-12.04-x86.tar.gz
 wget -N http://download.openvz.org/template/precreated/ubuntu-12.04-x86_64.tar.gz
 wget -N http://download.openvz.org/template/precreated/debian-7.0-x86.tar.gz
